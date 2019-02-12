@@ -7,7 +7,7 @@ using ContosoUniversity.Models;
 
 namespace ContosoUniversity.DAL
 {
-    public class SchoolInitializer : System.Data.Entity.DropCreateDatabaseIfModelChanges<SchoolContext>
+    public class SchoolInitializer : System.Data.Entity.DropCreateDatabaseAlways<SchoolContext>
     {
         protected override void Seed(SchoolContext context)
         {
