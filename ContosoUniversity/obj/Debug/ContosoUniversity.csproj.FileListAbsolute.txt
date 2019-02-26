@@ -86,7 +86,6 @@ C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\bin\Microsoft
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\bin\Microsoft.AI.Web.xml
-C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.pdb

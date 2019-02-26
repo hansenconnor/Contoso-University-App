@@ -12,14 +12,20 @@ namespace ContosoUniversity.Models
     {
         [Key]
         public int ID { get; set; }
+
         [Required(ErrorMessage = "Please enter the student's last name.")]
         [StringLength(30, ErrorMessage = "The last name must be less than {1} characters")]
         [Display(Name = "Last Name")]
         public string LastName { get; set; }
+
         [StringLength(20, ErrorMessage = "The first name must be less than {1} characters")]
         [Column("FirstName")]
         [Display(Name = "First Name")]
         public string FirstMidName { get; set; }
+
+        [RegularExpression(@"^\(?([0-9]{3})\)?[-.●]?([0-9]{3})[-.●]?([0-9]{4})$", ErrorMessage = "The PhoneNumber field is not a valid phone number")]
+        public string Phone { get; set; }
+
         [Column("DateEnrolled")]
         [Display(Name = "Date Enrolled")]
         public DateTime EnrollmentDate { get; set; }
