@@ -89,3 +89,4 @@ C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\bin\Microsoft
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
