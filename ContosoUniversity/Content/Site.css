@@ -22,3 +22,7 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.navbar{
+    font-size:13px;
+}

@@ -96,3 +96,6 @@ C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\bin\PagedList
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\bin\PagedList.Mvc.xml
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
 C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\InitialCreate.resources
+C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\hanse174\Desktop\Contoso-University-App\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
